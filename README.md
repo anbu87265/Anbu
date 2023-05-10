@@ -1,3 +1,3 @@
 # Anbu
-buid an event mnagement using for salceforce
+buid an event management using for salceforce
 no demo video
